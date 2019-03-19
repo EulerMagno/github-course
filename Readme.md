@@ -9,4 +9,4 @@ Arquivo da aula de Github
  
  ' git status ': mostra o status dos documentos para push 
  
- 
+Inserir gerenciamento remoto. 
